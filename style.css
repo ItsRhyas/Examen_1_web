@@ -17,12 +17,12 @@ body {
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 16px #9a9;
 }
 
 header {
-  background-color: #333;
-  color: white;
+  background: linear-gradient(to right, #a8e6cf, #dcedc1);
+
   padding: 2rem;
   margin: -1rem;
   border-radius: 8px 8px 0 0;
